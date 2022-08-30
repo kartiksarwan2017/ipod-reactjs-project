@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ipod-reactjs-project/static/css/main.ff87ec5e.css",
+    "main.js": "/ipod-reactjs-project/static/js/main.3700d0fa.js",
+    "static/media/allsongs.gif": "/ipod-reactjs-project/static/media/allsongs.0c6197b33ac50e54c7fa.gif",
+    "static/media/Lakshya.mp3": "/ipod-reactjs-project/static/media/Lakshya.86cd5e43a0bfb9cf13f2.mp3",
+    "static/media/Woh_Kisna_Hai.mp3": "/ipod-reactjs-project/static/media/Woh_Kisna_Hai.9659b1c78984ee8ac061.mp3",
+    "static/media/coverflow.png": "/ipod-reactjs-project/static/media/coverflow.eb883fee3adddc1e1b74.png",
+    "static/media/Hall_of_Fame.mp3": "/ipod-reactjs-project/static/media/Hall_of_Fame.93ab5b1b514e5a4993d8.mp3",
+    "static/media/wallpaper4.jpg": "/ipod-reactjs-project/static/media/wallpaper4.aaad94256e4943b54958.jpg",
+    "static/media/kisna.png": "/ipod-reactjs-project/static/media/kisna.714fe5063064c87948ea.png",
+    "static/media/albums.png": "/ipod-reactjs-project/static/media/albums.b09054c9bda33e600133.png",
+    "static/media/games.jpeg": "/ipod-reactjs-project/static/media/games.9b211f3c418d88461cbb.jpeg",
+    "static/media/wallpaper5.jpg": "/ipod-reactjs-project/static/media/wallpaper5.af9e2725e218a48da734.jpg",
+    "static/media/wallpaper1.jpg": "/ipod-reactjs-project/static/media/wallpaper1.6f652af8dd1fb36f001f.jpg",
+    "static/media/wallpaper2.jpg": "/ipod-reactjs-project/static/media/wallpaper2.5a5cba14c5706682f2b5.jpg",
+    "static/media/wallpaper3.jpg": "/ipod-reactjs-project/static/media/wallpaper3.17feda07c29ded8b523a.jpg",
+    "static/media/artists.jpg": "/ipod-reactjs-project/static/media/artists.7f5e149b5bb55c661967.jpg",
+    "static/media/Halloffame.jfif": "/ipod-reactjs-project/static/media/Halloffame.c06215ce5f5b9639a534.jfif",
+    "static/media/lakshay.jfif": "/ipod-reactjs-project/static/media/lakshay.7ea7793284ef2c3ef481.jfif",
+    "index.html": "/ipod-reactjs-project/index.html",
+    "main.ff87ec5e.css.map": "/ipod-reactjs-project/static/css/main.ff87ec5e.css.map",
+    "main.3700d0fa.js.map": "/ipod-reactjs-project/static/js/main.3700d0fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff87ec5e.css",
+    "static/js/main.3700d0fa.js"
+  ]
+}
